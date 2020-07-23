@@ -20,7 +20,7 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="test push"
+        android:text="test push 2"
         tools:layout_editor_absoluteX="154dp"
         tools:layout_editor_absoluteY="448dp" />
 
